@@ -3,6 +3,12 @@ The ESP8266 microcontroller (programmed in C++) receives signals from sensors vi
 
 For PI reasons the Code is hidden. 
 
+## scheme
+Wemos D1 R2 Mini microcontroller is connected to SHT31 sensor, LCD, LAN and Relay. The latter is connected to the energy that supplies the humidifier.
+
+![schema](https://user-images.githubusercontent.com/93688426/156469689-4efa1de5-b1a7-4096-8afd-72f96ed4f7c2.png)
+
+
 
 ## User interface
 The user interface has the logo and styles (font and colors) of the brand. Below, a representation of the greenhouse environment using charts.js. At the bottom of the page there are two inputs to set the minimum and maximum humidity.
