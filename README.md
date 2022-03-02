@@ -6,4 +6,4 @@ Por motivos de PI os Arquivos estao ocultos.
 ## User interface
 The user interface has the logo and styles (font and colors) of the brand. Below, a representation of the greenhouse environment using charts.js. At the bottom of the page there are two inputs to set the minimum and maximum humidity.
 
-![alt text](https://drive.google.com/drive/u/1/folders/1c2P43KC6g8ft_irzf7OWevdyKwyk3pic)
+![alt text](https://drive.google.com/file/d/1a2lXoUmS6WjqgI9sy08LFS6IT0fj7uRm/view)
