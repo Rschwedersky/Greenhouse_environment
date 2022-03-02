@@ -1,7 +1,7 @@
 # Greenhouse_environment
 The ESP8266 microcontroller (programmed in C++) receives signals from sensors via I2C and, after being set by the user via HTTP and SPIFFs, controls the operation of relays, presenting the readings in a front-end in HTML, CSS and JavaScript interface.
 
-For PI reasons the Files are hidden. 
+For PI reasons the Code is hidden. 
 
 
 ## User interface
@@ -11,3 +11,6 @@ The user interface has the logo and styles (font and colors) of the brand. Below
 
 ## Function
 In the demonstration we can see the LCD display showing the current values of the greenhouse environment and also the set values. The same information is available on the local network in real time. The moment the minimum set is reprogrammed to a humidity higher than the current, the humidifier is turned on. Kazam!
+
+
+https://user-images.githubusercontent.com/93688426/156467593-98a522ed-a230-41a4-a754-60c763e2e434.mp4
