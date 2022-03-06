@@ -1,4 +1,4 @@
-# Greenhouse_environment
+# Greenhouse Environment
 The ESP8266 microcontroller (programmed in C++) receives signals from sensors via I2C and, after being set by the user via HTTP and SPIFFs, controls the operation of relays, presenting the readings in a front-end in HTML, CSS and JavaScript interface.
 
 For PI reasons the Code is hidden. 
