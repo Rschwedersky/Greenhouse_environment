@@ -1,8 +1,6 @@
 # Greenhouse Environment
 The ESP8266 microcontroller (programmed in C++) receives signals from sensors via I2C and, after being set by the user via HTTP and SPIFFs, controls the operation of relays, presenting the readings in a front-end in HTML, CSS and JavaScript interface.
 
-For PI reasons the Code is hidden. 
-
 ## scheme
 Wemos D1 R2 Mini microcontroller is connected to SHT31 sensor, LCD, LAN and Relay. The latter is connected to the energy that supplies the humidifier.
 
